@@ -58,7 +58,7 @@ KenyaEcoTours/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── views/
-│   │   └── axios.js
+│   │   └── stores/index.js // NOTE : This is where the axios.js is defined
 │   └── vite.config.js
 ├── .env
 ├── .gitignore
